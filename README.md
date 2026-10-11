@@ -1,8 +1,8 @@
 # CivicFix AI
 
-CivicFix AI helps citizens report civic infrastructure problems — potholes, blocked drains, visible water
+CivicFix AI helps citizens report civic infrastructure problems like potholes, blocked drains, visible water
 pipeline leaks, damaged traffic signals, garbage accumulation, damaged footpaths and similar publicly
-maintained assets — and helps authorities review an AI-assisted assessment of each report.
+maintained assets and helps authorities review an AI-assisted assessment of each report.
 
 A citizen uploads a photograph and a location. An AI service returns a structured assessment: what the
 issue appears to be, how severe it looks, how confident the model is, what is visibly wrong, which safety
